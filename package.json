@@ -1,0 +1,36 @@
+{
+  "name": "angular-history-back",
+  "email": "jld.downie@gmail.com",
+  "version": "1.0.0",
+  "description": "Angular 1.x wrapper for window.history.back()",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvdownie/angular-history-back.git"
+  },
+  "keywords": [
+    "angular",
+    "ui-router",
+    "ui",
+    "router",
+    "window history",
+    "window",
+    "history",
+    "state",
+    "params",
+    "back"
+  ],
+  "author": "Joe Downie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvdownie/angular-history-back/issues"
+  },
+  "homepage": "https://github.com/jvdownie/angular-history-back#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
