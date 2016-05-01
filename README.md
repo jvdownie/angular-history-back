@@ -2,7 +2,7 @@
 Angular 1.x wrapper for window.history.back()
 
 <h2>Usage</h2>
-<p><strong>1)</strong> Add angular-history-back to your project:</p>
+<p><strong>1)</strong> Get angular-history-back for your project:</p>
 <pre>bower i angular-history-back --save</pre>
 <p><strong>2)</strong> Add it to your HTML file:</p>
 <pre>
