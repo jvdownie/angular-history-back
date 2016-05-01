@@ -6,7 +6,7 @@ Angular 1.x wrapper for window.history.back()
 <pre>bower i angular-history-back --save</pre>
 <p>Add it to your HTML file:</p>
 <pre>
-&lt;script src="bower_components/angular-debounce/dist/angular-history-back.min.js"&gt;&lt;/script&gt;
+&lt;script src="bower_components/angular-history-back/dist/angular-history-back.min.js"&gt;&lt;/script&gt;
 </pre>
 <p>Now add it to an anchor or button tag</p>
 <pre>
