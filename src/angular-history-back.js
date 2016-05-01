@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('hBack')
+        .module('hBack', [])
         .directive('backButton', backButton);
 
     function backButton(){

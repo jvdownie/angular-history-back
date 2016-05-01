@@ -1,7 +1,7 @@
 {
   "name": "angular-history-back",
   "description": "Angular 1.x wrapper for window.history.back()",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "Joe Downie"
   ],
