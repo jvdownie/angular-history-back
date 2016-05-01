@@ -10,6 +10,6 @@ Angular 1.x wrapper for window.history.back()
 </pre>
 <p>Now add it to an anchor or button tag</p>
 <pre>
-&lt;button back-button&gt;Back&lt;/button&gt;
 &lt;a back-button&gt;Back&lt;/a&gt;
+&lt;button back-button&gt;Back&lt;/button&gt;
 </pre>
