@@ -4,7 +4,9 @@
   "version": "1.0.1",
   "description": "Angular 1.x wrapper directive for window.history.back()",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "grunt && git add -A .",
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
