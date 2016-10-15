@@ -1,7 +1,7 @@
 {
   "name": "angular-history-back",
   "email": "jld.downie@gmail.com",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "description": "Angular 1.x wrapper directive for window.history.back()",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
