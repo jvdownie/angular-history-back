@@ -1,12 +1,10 @@
 {
   "name": "angular-history-back",
   "email": "jld.downie@gmail.com",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Angular 1.x wrapper directive for window.history.back()",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "grunt && git add -A .",
-    "postversion": "git push && git push --tags"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
